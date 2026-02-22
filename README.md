@@ -35,16 +35,6 @@ This version is **standalone (no Ace3)** and is written to be **safe with Retail
    * `StayUnsheathed.lua`
 3. No external libraries required.
 
-## `.toc` setup
-
-Make sure your `.toc` includes:
-
-```toc
-## SavedVariablesPerCharacter: StayUnsheathedDB
-```
-
-Remove any Ace3 `## OptionalDeps:` / `## Dependencies:` and any `libs\...` includes.
-
 ## Commands
 
 * `/su help` — show help
