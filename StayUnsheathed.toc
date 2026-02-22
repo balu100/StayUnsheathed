@@ -1,0 +1,8 @@
+## Interface: 110207, 120000, 120001
+## Title: |cFFFF7D0AStayUnsheathed|r 
+## Notes: We keep your sword out for everyone to see.
+## Author: Zordiak Darkspear-US
+## Version: 3.0.0
+## SavedVariablesPerCharacter: StayUnsheathedDB
+
+StayUnsheathed.lua
